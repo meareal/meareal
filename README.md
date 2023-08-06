@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Azure AD B2C - 3rd party providers
 
-- Mobile app using Azure AD B2C to authenticate as well as 3rd party providers like LinkedIn. [Watch demo](https://youtu.be/PnF-C_lv5E4).
+- Mobile app using Azure AD B2C to authenticate as well as 3rd party providers like LinkedIn. [Watch demo](https://youtu.be/3Hg1025OHbk).
 
 ### Mobile app UI tests
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 ### Containers
 
-- Introduction to Docker. Build image and push it to a container registry. [Watch demo](https://youtu.be/qmH3MOXacv0).
-- Docker compose. Eight .Net projects and five containers built and run on Windows, Mac and Linux. [Watch demo](https://youtu.be/3uyOH86vqFM).
+- Introduction to Docker. Build image and push it to a container registry. [Watch demo](https://youtu.be/r3i5KysD2tA).
+- Docker compose. Eight .Net projects and five containers built and run on Windows, Mac and Linux. [Watch demo](https://youtu.be/v3529HBDx9w).
 - Application documentation with DocFX fully containerized using Docker and Podman (built and deployed in containers). Demo coming soon.
