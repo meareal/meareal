@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - [Blazor](https://devblogs.microsoft.com/dotnet/category/blazor/)
 - [MAUI](https://devblogs.microsoft.com/dotnet/category/maui/)
 
-## Web Site
+## LinkedIn
 
-- [Artifacts Solutions](https://artifacts.solutions/)
+- [Profile](https://www.linkedin.com/in/marceloareal/)
 
 ## Projects
 
