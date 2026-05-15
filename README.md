@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### AI Automations
 
-- Claude Code + N8N to post daily to Instagram account lectio.catholica
+- Claude Code + N8N to post daily to Instagram account [lectio.catholica](https://www.instagram.com/lectio.catholica/)
 
 ### Containers
 
